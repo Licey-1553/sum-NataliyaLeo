@@ -1,3 +1,3 @@
-a = int(input())
-b = int(input())
+a = int(input('Введите число'))
+b = int(input('Введите другое число'))
 print(a + b)
